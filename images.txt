@@ -5,7 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nyanmisaka/jellyfin
-linuxserver/jackett
+#linuxserver/jackett
 hsuyelin/nas-tools
-jackett/jackett
+#jackett/jackett
 flaresolverr/flaresolverr
