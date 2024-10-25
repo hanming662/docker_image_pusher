@@ -7,4 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 hsuyelin/nas-tools
-linuxserver/qbittorren
+jackett/jackett
