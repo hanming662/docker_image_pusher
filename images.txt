@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 hsuyelin/nas-tools
 jackett/jackett
+flaresolverr/flaresolverr
