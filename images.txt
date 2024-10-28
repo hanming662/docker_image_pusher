@@ -9,3 +9,4 @@ nyanmisaka/jellyfin
 hsuyelin/nas-tools
 #jackett/jackett
 flaresolverr/flaresolverr
+docker.zeronews.cc/zeronews
