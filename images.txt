@@ -11,4 +11,4 @@ hsuyelin/nas-tools
 flaresolverr/flaresolverr
 docker.zeronews.cc/zeronews
 jxxghp/moviepilot
-embyleet/emby
+emby/embyserver
