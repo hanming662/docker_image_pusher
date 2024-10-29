@@ -10,3 +10,5 @@ hsuyelin/nas-tools
 #jackett/jackett
 flaresolverr/flaresolverr
 docker.zeronews.cc/zeronews
+jxxghp/moviepilot
+embyleet/emby
