@@ -1,1 +1,1 @@
-deluan/navidrome
+homeassistant/amd64-hassio-supervisor
