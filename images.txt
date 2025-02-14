@@ -1,1 +1,1 @@
-homeassistant/qemux86-64-homeassistant
+homeassistant/home-assistant
