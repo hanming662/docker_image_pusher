@@ -1,1 +1,1 @@
-teddysun/v2ray
+v2ray/official
