@@ -1,1 +1,1 @@
-ghcr.io/gethomepage/homepage
+gdy666/lucky
